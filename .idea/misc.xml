@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/drawable/ic_account.xml" value="0.1665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/drawable/ic_arrow_back.xml" value="0.1005" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/activity_detail.xml" value="0.29080675422138835" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/activity_main.xml" value="0.25399495374264086" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/activity_splash.xml" value="0.15625" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/item_card.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/item_news.xml" value="0.22" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Yugioh/app/src/main/res/layout/splash_activity.xml" value="0.15625" />
       </map>
     </option>
   </component>

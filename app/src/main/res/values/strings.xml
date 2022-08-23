@@ -3,4 +3,15 @@
     <string name="name_card">Card Name</string>
     <string name="img_card">Image</string>
     <string name="desc_card">Description</string>
+    <string name="profile">Profile</string>
+    <string name="footer">Created by Dimas Aditya</string>
+
+    <string name="btn_back">Button Back</string>
+    <string name="card_type">Card Type :</string>
+    <string name="level">Level :</string>
+    <string name="atk">ATK :</string>
+    <string name="def">DEF :</string>
+    <string name="email">dfaizaditya@gmail.com</string>
+    <string name="profile_name">Dimas Aditya Faiz</string>
+    <string name="about_me">About me</string>
 </resources>

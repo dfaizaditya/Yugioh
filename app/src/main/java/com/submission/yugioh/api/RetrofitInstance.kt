@@ -1,7 +1,7 @@
 package com.submission.yugioh.api
 
 import androidx.viewbinding.BuildConfig
-import com.submission.yugioh.utils.Constants.Companion.BASE_URL
+import com.submission.yugioh.utils.Constants.BASE_URL
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
