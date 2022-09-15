@@ -7,7 +7,7 @@ Submission Course Dicoding - Membuat Aplikasi Android untuk Pemula
 - Intent Explicit with Data
 - retrofit (Displaying data from https://ygoprodeck.com/api-guide/)
 
-### Screenshoot Aplikasi
+### Screenshoot :
 <table width="100%">
 <th> <img src="https://github.com/dfaizaditya/Yugioh/blob/main/Screenshot/screen1.jpg"> </th>
 <th> <img src="https://github.com/dfaizaditya/Yugioh/blob/main/Screenshot/screen2.jpg"> </th>
