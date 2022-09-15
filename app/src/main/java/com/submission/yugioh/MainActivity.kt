@@ -84,12 +84,6 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun intentToProfile() {
-        Intent(this@MainActivity, AboutActivity::class.java).also {
-            startActivity(it)
-        }
-    }
-
     companion object {
         const val DATA_TAG = "Data :"
     }
